@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testbbms</string>
+    <string name="download_success">Download Success</string>
+    <string name="download_failed">Download Failed</string>
+</resources>
